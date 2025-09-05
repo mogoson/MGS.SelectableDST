@@ -1,0 +1,24 @@
+{
+    "name": "com.mgs.selectabledst",
+    "version": "1.0.0",
+    "displayName": "Selectable DST",
+    "description": "Unity Selectable UI element state transition extension.",
+    "unity": "2021.3",
+    "keywords": [
+        "selectable",
+        "state",
+        "transition"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    },
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample for Selectable state transition",
+            "path": "Samples~/Sample"
+        }
+    ]
+}

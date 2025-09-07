@@ -10,6 +10,14 @@ Unity Selectable UI element state transition extension.
 
 - Selectable state transition extensions.
 
+## Install
+
+- Unity --> Window --> Package Manager --> "+" --> Add package from git URL...
+
+  ```text
+  https://github.com/mogoson/MGS.SelectableDST.git?path=/Assets
+  ```
+
 ## Usage
 
 - Add the Selectable extension component to UI element.
